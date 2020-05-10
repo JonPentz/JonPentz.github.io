@@ -1,4 +1,3 @@
-## Welcome to the BI dev setup pages.
+## Pages for some public BI related projects and code.
 
-This site is designed to help with common configuration, setup and usage for various tooling and components across BI and Analytics related projects.
-
+Documentation on some projects that will be added in the near future.
